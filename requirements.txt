@@ -1,0 +1,14 @@
+torch
+torchvision
+pywin32>=306
+Pillow>=10.0.0
+psutil>=5.9.0
+numpy>=1.24.0
+ultralytics==8.3.70
+transformers
+timm
+einops==0.8.0
+easyocr
+paddlepaddle
+paddleocr
+supervision==0.18.0

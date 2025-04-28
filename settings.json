@@ -1,0 +1,16 @@
+{
+    "window.commandCenter": 1,
+    "launch": {
+        "configurations": [
+            {
+                "name": "Run MegaAppTester",
+                "type": "python",
+                "request": "launch",
+                "program": "${workspaceFolder}/megaAppTester.py",
+                "args": ["Win11 Dev"],
+                "console": "integratedTerminal",
+                "justMyCode": true
+            }
+        ]
+    }
+}
